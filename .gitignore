@@ -4,7 +4,6 @@ config.py
 #Adding additional fiels
 API_practice.ipynb
 random_numbers.ipynb
-World_Weather_Analysis
 class work
 # Byte-compiled / optimized / DLL files
 __pycache__/
